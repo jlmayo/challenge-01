@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Renamed a <div> element to <nav>. Updated .header classes to reflect this change.*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Renamed the .benefit-lead, .benefit-brand, and .benefit-cost classes to .benefit-section.*/
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Renamed search-engine-optimization, online-reputation-management, and social-media-marketing classes to article-section.*/
 .article-section {
     margin-bottom: 20px;
     padding: 50px;
